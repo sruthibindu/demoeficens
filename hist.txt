@@ -1,0 +1,58 @@
+sruthivijjigiri@Sruthibindus-MacBook-Air demoeficens % git log
+commit 4fe0a24ef7c64f62cca0f184899e3a3488a6be1d (HEAD -> main, origin/main)
+Author: Sruthibindu Vijjigiri <sruthivijjigiri@SruthibindusAir.lan>
+Date:   Sun Jan 8 23:56:31 2023 -0600
+
+    removed cerave folder from my repo
+
+commit b46a75579574df524fe33a40bd6041eecd1b0196
+Author: shruthi <sruthibindu73@gmail.com>
+Date:   Sun Jan 8 17:13:59 2023 +0000
+
+    stash third commit
+
+commit de5987637a2a7c426f83fbe56eb8e3c270d2a2ee
+Author: shruthi <sruthibindu73@gmail.com>
+Date:   Sun Jan 8 17:09:20 2023 +0000
+
+    stash final commit
+
+commit d3b00f18c0953b45ca7383b1635961b9f3b964be
+Author: shruthi <sruthibindu73@gmail.com>
+Date:   Sun Jan 8 17:07:43 2023 +0000
+
+    stash commit
+
+commit bd6bd191a317b2d5e0286b27bb352e6587962021 (tag: v1.0)
+Author: shruthi <sruthibindu73@gmail.com>
+Date:   Sun Jan 8 16:34:52 2023 +0000
+
+    conflit commit
+
+commit c10ff0cde17c4f1d3b6dbb1ab1a710c7b61bd291
+Author: shruthi <sruthibindu73@gmail.com>
+Date:   Fri Jan 6 21:37:13 2023 +0000
+
+    fast track commit
+
+commit ffdc68dab866531c7d87a4b84027073eddbf288b
+Author: shruthi <sruthibindu73@gmail.com>
+Date:   Fri Jan 6 21:20:24 2023 +0000
+
+    third commit from vs code
+
+commit eaf7106a3b71386b71334dc7a0d2a303b214980a
+Author: shruthi <sruthibindu73@gmail.com>
+Date:   Fri Jan 6 20:34:46 2023 +0000
+
+    inital comment
+sruthivijjigiri@Sruthibindus-MacBook-Air demoeficens % git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   LICENCE.MD
+
+no changes added to commit (use "git add" and/or "git commit -a")
